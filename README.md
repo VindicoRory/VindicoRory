@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rory, a full-time full-stack developer 👨‍💻 working for Vindico ICS 🚀</div>  
+### <div align="center">I'm Rory, a full-time backend developer 👨‍💻 working for Vindico ICS 🚀</div>  
   
 
 - 🌱 I’m currently learning Rust and TypeScript  
