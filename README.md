@@ -26,13 +26,11 @@ I'm Rory, a full-time backend developer 👨‍💻 working for Vindico ICS 🚀
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Rust and TypeScript  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
 
 
 </td><td valign="top" width="50%">
 
+⚡ Fun fact: I use tabs over spaces  
 
 
 </td></tr></table>  
@@ -69,11 +67,11 @@ I'm Rory, a full-time backend developer 👨‍💻 working for Vindico ICS 🚀
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=VindicoRory&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VindicoRory&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -83,7 +81,7 @@ I'm Rory, a full-time backend developer 👨‍💻 working for Vindico ICS 🚀
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=VindicoRory&&style=flat-square)  
   
 
 <br/>  
